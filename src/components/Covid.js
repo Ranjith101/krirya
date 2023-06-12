@@ -58,7 +58,7 @@ const Covid = () => {
           <option value="Oceania">Oceania</option>
         </select>
         <input
-          className='ms-3 form-control-lg form-control-md form-control-sm form-control'
+          className='ms-3 form-control-lg form-control-md form-control-sm w-40 mb-3'
           type="text"
           placeholder="Search by country..."
           value={searchTerm}
